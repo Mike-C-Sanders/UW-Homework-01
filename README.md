@@ -8,6 +8,8 @@ For more information on web accessibility check out the references and resources
 
 To access the published site follow this GitHub Pages link:<https://mike-c-sanders.github.io/UW-Homework-01/>
 
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/71601403/146661670-f873947c-0647-48de-8b10-d74f6bd80f0f.png)
+
 ## Table of Contents
 
 ```
@@ -46,6 +48,19 @@ All changes to the source code are logged via comments in the given file. For a 
 
 ### Index.html
 
+    * Removed all div tags/elements
+    
+    * Added Header, Main, and Footer Tags for structuring the body
+
+    * Added nav element to the page
+
+    * Added 3 section tags: one for the hero image, one for the main articles for the page and the third for the side bar. 
+
+    * Wrapped images with figure tags and added an alt text for all images for better screen reader accessibility. 
+
+    * Under the section tags div tags were changed to article tags. 
+
+    * Links from the navigation bar weren't navigating to the correct article. The fix required a change from class to id
 
 ### Style.css
 
