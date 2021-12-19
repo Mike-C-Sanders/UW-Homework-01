@@ -64,6 +64,10 @@ All changes to the source code are logged via comments in the given file. For a 
 
 ### Style.css
 
+    * Exchanged the div references for the related tag change. For instance, in the header changing the style from header div to header nav
+
+    * Changed the class references to ID references to match the index.html file references: search-engine-optimization, online-reputation-management and social-media-marketing
+    
 ## References & Resources
 
 For more information regarding web accessibility, visit:
